@@ -1,0 +1,12 @@
+body { font-family: Arial, sans-serif; background-color: #fff; }
+.container { max-width: 360px; margin: 100px auto; padding: 20px; background-color: #fff; border-radius: 5px; box-shadow: 0px 0px 10px rgb(0, 0, 0); }
+h2 { text-align: center; margin-bottom: 20px; color: #333; }
+.input-group { margin-bottom: 15px; }
+label { display: block; margin-bottom: 5px; color: #333; }
+input[type="text"], input[type="password"] { width: 100%; padding: 10px; border-radius: 3px; border: 1px solid #ccc; box-sizing: border-box; }
+button { width: 100%; padding: 10px; border: none; border-radius: 3px; background-color: hwb(170 10% 0% / 0.795); color: #fff; cursor: pointer; }
+button:hover { background-color: #0056b3; }
+.error { color: #dc3545; margin-top: 10px; }
+.link { text-align: center; margin-top: 10px; }
+.link a { color: #007bff; text-decoration: none; }
+.link a:hover { text-decoration: underline; }
